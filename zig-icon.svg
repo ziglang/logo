@@ -1,18 +1,16 @@
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml"><head><meta name="viewport" content="width=device-width" /><title>https://ziglang.org/zig-icon.svg</title><link rel="stylesheet" type="text/css" href="resource://content-accessible/viewsource.css" /></head><body id="viewsource" class="highlight" style="-moz-tab-size: 4" contextmenu="actions"><pre id="line1"><span></span><span>&lt;<span class="start-tag">svg</span> <span class="attribute-name">fill</span>="<a class="attribute-value">#f7a41d</a>" <span class="attribute-name">viewBox</span>="<a class="attribute-value">0 0 15 10</a>" <span class="attribute-name">xmlns</span>="<a class="attribute-value">http://www.w3.org/2000/svg</a>" <span class="attribute-name">xmlns:xlink</span>="<a class="attribute-value">http://www.w3.org/1999/xlink</a>"&gt;</span><span>
-<span id="line2"></span>	</span><span>&lt;<span class="start-tag">defs</span>&gt;</span><span>
-<span id="line3"></span>		</span><span>&lt;<span class="start-tag">rect</span> <span class="attribute-name">id</span>="<a class="attribute-value">s</a>" <span class="attribute-name">x</span>="<a class="attribute-value">-1</a>" <span class="attribute-name">y</span>="<a class="attribute-value">-6</a>" <span class="attribute-name">width</span>="<a class="attribute-value">2</a>" <span class="attribute-name">height</span>="<a class="attribute-value">12</a>" <span class="attribute-name">transform</span>="<a class="attribute-value">rotate(42) skewY(-58)</a>"<span>/</span>&gt;</span><span>
-<span id="line4"></span>	</span><span>&lt;/<span class="end-tag">defs</span>&gt;</span><span>
-<span id="line5"></span>	</span><span>&lt;<span class="start-tag">g</span> <span class="attribute-name">id</span>="<a class="attribute-value">z</a>"&gt;</span><span>
-<span id="line6"></span>		</span><span>&lt;<span class="start-tag">rect</span> <span class="attribute-name">x</span>="<a class="attribute-value">4</a>" <span class="attribute-name">y</span>="<a class="attribute-value">1</a>" <span class="attribute-name">width</span>="<a class="attribute-value">6</a>" <span class="attribute-name">height</span>="<a class="attribute-value">2</a>"<span>/</span>&gt;</span><span>
-<span id="line7"></span>		</span><span>&lt;<span class="start-tag">use</span> <span class="attribute-name">xlink:href</span>="<a class="attribute-value" href="view-source:https://ziglang.org/zig-icon.svg#s">#s</a>" <span class="attribute-name">transform</span>="<a class="attribute-value">translate(7.5 5)</a>"<span>/</span>&gt;</span><span>
-<span id="line8"></span>		</span><span>&lt;<span class="start-tag">rect</span> <span class="attribute-name">x</span>="<a class="attribute-value">5</a>" <span class="attribute-name">y</span>="<a class="attribute-value">7</a>" <span class="attribute-name">width</span>="<a class="attribute-value">6</a>" <span class="attribute-name">height</span>="<a class="attribute-value">2</a>"<span>/</span>&gt;</span><span>
-<span id="line9"></span>	</span><span>&lt;/<span class="end-tag">g</span>&gt;</span><span>
-<span id="line10"></span>	</span><span>&lt;<span class="start-tag">mask</span> <span class="attribute-name">id</span>="<a class="attribute-value">m</a>"&gt;</span><span>
-<span id="line11"></span>		</span><span>&lt;<span class="start-tag">rect</span> <span class="attribute-name">width</span>="<a class="attribute-value">15</a>" <span class="attribute-name">height</span>="<a class="attribute-value">10</a>" <span class="attribute-name">fill</span>="<a class="attribute-value">#fff</a>"<span>/</span>&gt;</span><span>
-<span id="line12"></span>		</span><span>&lt;<span class="start-tag">rect</span> <span class="attribute-name">x</span>="<a class="attribute-value">2</a>" <span class="attribute-name">y</span>="<a class="attribute-value">3</a>" <span class="attribute-name">width</span>="<a class="attribute-value">11</a>" <span class="attribute-name">height</span>="<a class="attribute-value">4</a>" <span class="attribute-name">fill</span>="<a class="attribute-value">#000</a>"<span>/</span>&gt;</span><span>
-<span id="line13"></span>		</span><span>&lt;<span class="start-tag">use</span> <span class="attribute-name">xlink:href</span>="<a class="attribute-value" href="view-source:https://ziglang.org/zig-icon.svg#z">#z</a>" <span class="attribute-name">stroke</span>="<a class="attribute-value">#000</a>"<span>/</span>&gt;</span><span>
-<span id="line14"></span>	</span><span>&lt;/<span class="end-tag">mask</span>&gt;</span><span>
-<span id="line15"></span>	</span><span>&lt;<span class="start-tag">rect</span> <span class="attribute-name">y</span>="<a class="attribute-value">1</a>" <span class="attribute-name">width</span>="<a class="attribute-value">15</a>" <span class="attribute-name">height</span>="<a class="attribute-value">8</a>" <span class="attribute-name">mask</span>="<a class="attribute-value">url(#m)</a>"<span>/</span>&gt;</span><span>
-<span id="line16"></span></span><span>&lt;/<span class="end-tag">svg</span>&gt;</span><span>
-<span id="line17"></span></span></pre><menu type="context" id="actions"><menuitem id="goToLine" label="Go to Line…" accesskey="L"></menuitem><menuitem id="wrapLongLines" label="Wrap Long Lines" type="checkbox"></menuitem><menuitem id="highlightSyntax" label="Syntax Highlighting" type="checkbox" checked="true"></menuitem></menu></body></html>
+<svg fill="#f7a41d" viewBox="0 0 15 10" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<rect id="s" x="-1" y="-6" width="2" height="12" transform="rotate(42) skewY(-58)"/>
+	</defs>
+	<g id="z">
+		<rect x="4" y="1" width="6" height="2"/>
+		<use xlink:href="#s" transform="translate(7.5 5)"/>
+		<rect x="5" y="7" width="6" height="2"/>
+	</g>
+	<mask id="m">
+		<rect width="15" height="10" fill="#fff"/>
+		<rect x="2" y="3" width="11" height="4" fill="#000"/>
+		<use xlink:href="#z" stroke="#000"/>
+	</mask>
+	<rect y="1" width="15" height="8" mask="url(#m)"/>
+</svg>
