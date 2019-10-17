@@ -18,3 +18,9 @@ zig-icon.svg is an icon of just the graphical part of the logo.
 ![zig-favicon.png](zig-favicon.png)
 
 zig-icon.png is a small version of the icon suitable for a website favicon.
+
+## Ziguana!
+
+![ziguana.svg](ziguana.svg)
+
+When someone sets up you the bomb, Ziguana to the rescue!
