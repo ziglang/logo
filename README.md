@@ -23,4 +23,4 @@ zig-icon.png is a small version of the icon suitable for a website favicon.
 
 ![ziguana.svg](ziguana.svg)
 
-When someone sets up you the bomb, Ziguana to the rescue!
+When someone sets up you the bomb, you need a Ziguana.
