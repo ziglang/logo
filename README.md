@@ -21,13 +21,13 @@ zig-icon.png is a small version of the icon suitable for a website favicon.
 
 ## Ziguana!
 
-<img src="ziguana.svg" width="300">
+<img alt="Ziguana Mascot" src="ziguana.svg" width="300">
 
 When someone sets up you the bomb, you need a Ziguana.
 
 
 ## Ziggy
 
-<img src="ziggy.svg" width="300">
+<img alt="Ziggy Mascot" src="ziggy.svg" width="300">
 
 Your friendly neighborhood zig mascot.
