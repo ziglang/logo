@@ -5,13 +5,15 @@ The Zig logo and mascots are licensed under the Attribution-ShareAlike 4.0 Inter
 
 ## Main Logo
 
-<img alt="Zig Logo" src="zig-logo.svg" width="300">
+<img alt="Zig Logo" src="full logo/zig_logo_black.svg" width="300">
 
-## Icon
+`full logo/zig_color_black.svg` is the preferred logo, containing both logomark and logotype.
 
-<img alt="Zig Icon" src="zig-icon.svg" width="300">
+## Logo mark
 
-`zig-icon.svg` is an icon of just the graphical part of the logo.
+<img alt="Zig Mark" src="logo mark/zig_mark_color.svg" width="300">
+
+`zig_mark_color.svg` is the logomark (icon) alone.
 
 ## Favicon
 
@@ -21,10 +23,10 @@ The Zig logo and mascots are licensed under the Attribution-ShareAlike 4.0 Inter
 
 # Logo versions
 
-* `full logo/zig_color_dark.svg` is the main logo, preferably used on applicable backgrounds.
+* `full logo/zig_color_black.svg` is the main logo, preferably used on applicable backgrounds.
 * `full logo/zig_color_white.svg` when visibility of the main logotype ("ZIG") is too low.
-* `full logo/zig_dark.svg` where color reproduction is not possible, or visibility of colored symbol is too low.
-* `full logo/zig_white.svg` where color reproduction is not possible, or visibility of `zig_dark.svg` is too low.
+* `full logo/zig_black.neg.svg` where color reproduction is not possible, or visibility of colored symbol is too low.
+* `full logo/zig_white.neg.svg` where color reproduction is not possible, or visibility of `zig_dark.neg.svg` is too low.
 
 # Official Mascots
 
