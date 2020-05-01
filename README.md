@@ -22,10 +22,10 @@ The Zig logo and mascots are licensed under the Attribution-ShareAlike 4.0 Inter
 # Logo versions
 
 * `full logo/zig_color_dark.svg` is the main logo, preferably used on applicable backgrounds.
-* `full logo/zig_color_white.svg` when visibility with the main logotype ("ZIG") is too low.
+* `full logo/zig_color_white.svg` when visibility of the main logotype ("ZIG") is too low.
 * `full logo/zig_dark.svg` where color reproduction is not possible, or visibility of colored symbol is too low.
 * `full logo/zig_white.svg` where color reproduction is not possible, or visibility of `zig_dark.svg` is too low.
-* `logo symbol/zig_FAVICON.svg` and `zig-favicon.png` are slightly modified symbols, optimized to be clear on small sizes like website favicons.
+* `logo symbol/zig_FAVICON.svg` and `zig-favicon.png` are slightly modified symbols, with increased margin to be clearer on small sizes.
 
 # Official Mascots
 
