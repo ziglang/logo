@@ -1,7 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 279 254.6">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 154 140">
 <g fill="#F7A41D">
-	<polygon points="23.5,213.8 0,213.8 0,40.8 85.4,40.8 51,81.8 41,81.8 41,172.8 57.9,172.8"/>
-	<path d="M212.1,172.8l-34.4,41H94.3l0,0L5.4,254.6L150.3,81.8H66.8l34.4-41h83.3L273.4,0l-145,172.8H212.1L212.1,172.8 z"/>
-	<polygon points="279,40.8 279,213.8 193.8,213.8 228.2,172.8 238,172.8 238,81.8 221.1,81.8 255.5,40.8"/>
+	<g>
+		<polygon points="46,22 28,44 19,22"/>
+		<polygon points="46,22 33,33 28,44 22,44 22,95 31,95 20,100 12,117 0,117 0,22" shape-rendering="crispEdges"/>
+		<polygon points="31,95 12,117 4,106"/>
+	</g>
+	<g>
+		<polygon points="56,22 62,44 37,44"/>
+		<polygon points="56,22 111,22 111,44 37,44 56,32" shape-rendering="crispEdges"/>
+		<polygon points="116,95 97,117 90,104"/>
+		<polygon points="116,95 100,104 97,117 42,117 42,95" shape-rendering="crispEdges"/>
+		<polygon points="150,0 52,117 3,140 101,22"/>
+	</g>
+	<g>
+		<polygon points="141,22 140,40 122,45"/>
+		<polygon points="153,22 153,117 106,117 120,105 125,95 131,95 131,45 122,45 132,36 141,22" shape-rendering="crispEdges"/>
+		<polygon points="125,95 130,110 106,117"/>
+	</g>
 </g>
 </svg>
