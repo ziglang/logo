@@ -5,15 +5,37 @@ The Zig logo and mascots are licensed under the Attribution-ShareAlike 4.0 Inter
 
 ## Main Logo
 
-<img alt="Zig Logo" src="full logo/zig_logo_black.svg" width="300">
+The preferred logo, containing both logomark and logotype.
 
-`full logo/zig_color_black.svg` is the preferred logo, containing both logomark and logotype.
+### Light Background
 
-## Logo mark
+<img alt="Zig Logo" src="zig-logo-dark.svg" width="300">
 
-<img alt="Zig Mark" src="logo mark/zig_mark_color.svg" width="300">
+### Dark Background
 
-`zig_mark_color.svg` is the logomark (icon) alone.
+<img alt="Zig Logo" src="zig-logo-light.svg" width="300">
+
+### Other Versions
+
+ * `zig-logo-neg-black.svg` is for light backgrounds where color reproduction is not
+   possible, or visibility of colored symbol is too low.
+
+ * `zig-logo-neg-white.svg` is for dark backgrounds where color reproduction is not
+   possible, or visibility of colored symbol is too low.
+
+## Logomark
+
+<img alt="Zig Mark" src="zig-mark.svg" width="300">
+
+`zig-mark.svg` is the logomark (icon) alone.
+
+### Other Versions
+
+ * `zig-mark-neg-black.svg` is for light backgrounds where color reproduction is not
+   possible, or visibility of colored symbol is too low.
+
+ * `zig-mark-neg-white.svg` is for dark backgrounds where color reproduction is not
+   possible, or visibility of colored symbol is too low.
 
 ## Favicon
 
@@ -21,12 +43,6 @@ The Zig logo and mascots are licensed under the Attribution-ShareAlike 4.0 Inter
 
 `zig-icon.png` is a small version of the icon made for website favicons.
 
-# Logo versions
-
-* `full logo/zig_color_black.svg` is the main logo, preferably used on applicable backgrounds.
-* `full logo/zig_color_white.svg` when visibility of the main logotype ("ZIG") is too low.
-* `full logo/zig_black.neg.svg` where color reproduction is not possible, or visibility of colored symbol is too low.
-* `full logo/zig_white.neg.svg` where color reproduction is not possible, or visibility of `zig_dark.neg.svg` is too low.
 
 # Official Mascots
 
