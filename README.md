@@ -5,19 +5,44 @@ The Zig logo and mascots are licensed under the Attribution-ShareAlike 4.0 Inter
 
 ## Main Logo
 
-<img alt="Zig Logo" src="zig-logo.svg" width="300">
+The preferred logo, containing both logomark and logotype.
 
-## Icon
+### Light Background
 
-<img alt="Zig Icon" src="zig-icon.svg" width="300">
+<img alt="Zig Logo" src="zig-logo-dark.svg" width="300">
 
-zig-icon.svg is an icon of just the graphical part of the logo.
+### Dark Background
+
+<img alt="Zig Logo" src="zig-logo-light.svg" width="300">
+
+### Other Versions
+
+ * `zig-logo-neg-black.svg` is for light backgrounds where color reproduction is not
+   possible, or visibility of colored symbol is too low.
+
+ * `zig-logo-neg-white.svg` is for dark backgrounds where color reproduction is not
+   possible, or visibility of colored symbol is too low.
+
+## Logomark
+
+<img alt="Zig Mark" src="zig-mark.svg" width="300">
+
+`zig-mark.svg` is the logomark (icon) alone.
+
+### Other Versions
+
+ * `zig-mark-neg-black.svg` is for light backgrounds where color reproduction is not
+   possible, or visibility of colored symbol is too low.
+
+ * `zig-mark-neg-white.svg` is for dark backgrounds where color reproduction is not
+   possible, or visibility of colored symbol is too low.
 
 ## Favicon
 
 <img alt="Zig Favicon" src="zig-favicon.png" width="16" height="16">
 
-zig-icon.png is a small version of the icon suitable for a website favicon.
+`zig-icon.png` is a small version of the icon made for website favicons.
+
 
 # Official Mascots
 
