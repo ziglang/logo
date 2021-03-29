@@ -1,7 +1,7 @@
 # Official Zig Project Logo
 
-The Zig logo and mascots are licensed under the Attribution-ShareAlike 4.0 International
-(CC BY-SA 4.0).
+Licensed under the Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+A different license applies to the mascots.
 
 ## Main Logo
 
@@ -45,6 +45,8 @@ The preferred logo, containing both logomark and logotype.
 
 
 # Official Mascots
+
+Licensed under the Attribution 4.0 International (CC BY 4.0).
 
 ## Zero the Ziguana
 
