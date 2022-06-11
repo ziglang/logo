@@ -1,21 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 154 140">
-<g fill="#F7A41D">
-	<g>
-		<polygon points="46,22 28,44 19,30"/>
-		<polygon points="46,22 33,33 28,44 22,44 22,95 31,95 20,100 12,117 0,117 0,22" shape-rendering="crispEdges"/>
-		<polygon points="31,95 12,117 4,106"/>
-	</g>
-	<g>
-		<polygon points="56,22 62,36 37,44"/>
-		<polygon points="56,22 111,22 111,44 37,44 56,32" shape-rendering="crispEdges"/>
-		<polygon points="116,95 97,117 90,104"/>
-		<polygon points="116,95 100,104 97,117 42,117 42,95" shape-rendering="crispEdges"/>
-		<polygon points="150,0 52,117 3,140 101,22"/>
-	</g>
-	<g>
-		<polygon points="141,22 140,40 122,45"/>
-		<polygon points="153,22 153,117 106,117 120,105 125,95 131,95 131,45 122,45 132,36 141,22" shape-rendering="crispEdges"/>
-		<polygon points="125,95 130,110 106,117"/>
-	</g>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 154 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g>
+        <g>
+            <path d="M0,117L0,22L46,22L28,44L22,44L22,95L31,95L12,117L0,117Z" style="fill:#f7a41d;fill-rule:nonzero;"/>
+        </g>
+        <g>
+            <path d="M70.427,95L116,95L97,117L52,117L3,140L82.729,44L37,44L56,22L101,22L150,0L70.427,95Z" style="fill:#f7a41d;fill-rule:nonzero;"/>
+        </g>
+        <g>
+            <path d="M153,22L153,117L106,117L125,95L131,95L131,45L122,45L141,22L153,22Z" style="fill:#f7a41d;fill-rule:nonzero;"/>
+        </g>
+    </g>
 </svg>

@@ -1,36 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 140">
-<g fill="#F7A41D">
-	<g>
-		<polygon points="46,22 28,44 19,30"/>
-		<polygon points="46,22 33,33 28,44 22,44 22,95 31,95 20,100 12,117 0,117 0,22" shape-rendering="crispEdges"/>
-		<polygon points="31,95 12,117 4,106"/>
-	</g>
-	<g>
-		<polygon points="56,22 62,36 37,44"/>
-		<polygon points="56,22 111,22 111,44 37,44 56,32" shape-rendering="crispEdges"/>
-		<polygon points="116,95 97,117 90,104"/>
-		<polygon points="116,95 100,104 97,117 42,117 42,95" shape-rendering="crispEdges"/>
-		<polygon points="150,0 52,117 3,140 101,22"/>
-	</g>
-	<g>
-		<polygon points="141,22 140,40 122,45"/>
-		<polygon points="153,22 153,117 106,117 120,105 125,95 131,95 131,45 122,45 132,36 141,22" shape-rendering="crispEdges"/>
-		<polygon points="125,95 130,110 106,117"/>
-	</g>
-</g>
-<g fill="#FFF">
-	<g>
-		<polygon points="260,22 260,37 229,40 177,40 177,22" shape-rendering="crispEdges" />
-		<polygon points="260,37 207,99 207,103 176,103 229,40 229,37"/>
-		<polygon points="261,99 261,117 176,117 176,103 206,99" shape-rendering="crispEdges" />
-	</g>
-	<rect x="272" y="22" shape-rendering="crispEdges" width="22" height="95"/>
-	<g>
-		<polygon points="394,67 394,106 376,106 376,81 360,70 346,67" shape-rendering="crispEdges"/>
-		<polygon points="360,68 376,81 346,67"/>
-		<path d="M394,106c-10.2,7.3-24,12-37.7,12c-29,0-51.1-20.8-51.1-48.3c0-27.3,22.5-48.1,52-48.1
-			c14.3,0,29.2,5.5,38.9,14l-13,15c-7.1-6.3-16.8-10-25.9-10c-17,0-30.2,12.9-30.2,29.5c0,16.8,13.3,29.6,30.3,29.6
-			c5.7,0,12.8-2.3,19-5.5L394,106z"/>
-	</g>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 400 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g>
+        <g>
+            <path d="M0,117L0,22L46,22L28,44L22,44L22,95L31,95L12,117L0,117Z" style="fill:#f7a41d;fill-rule:nonzero;"/>
+        </g>
+        <g>
+            <path d="M70.427,95L116,95L97,117L52,117L3,140L82.729,44L37,44L56,22L101,22L150,0L70.427,95Z" style="fill:#f7a41d;fill-rule:nonzero;"/>
+        </g>
+        <g>
+            <path d="M153,22L153,117L106,117L125,95L131,95L131,45L122,45L141,22L153,22Z" style="fill:#f7a41d;fill-rule:nonzero;"/>
+        </g>
+    </g>
+    <g>
+        <g>
+            <path d="M177,40L177,22L260,22L260,37L207,99L261,99L261,117L176,117L176,103L229,40L177,40Z" style="fill:#fff;fill-rule:nonzero;"/>
+        </g>
+        <rect x="272" y="22" width="22" height="95" style="fill:#fff;"/>
+        <g>
+            <path d="M394,106C383.8,113.3 370,118 356.3,118C327.3,118 305.2,97.2 305.2,69.7C305.2,42.4 327.7,21.6 357.2,21.6C371.5,21.6 386.4,27.1 396.1,35.6L383.1,50.6C376,44.3 366.3,40.6 357.2,40.6C340.2,40.6 327,53.5 327,70.1C327,86.9 340.3,99.7 357.3,99.7C362.908,99.7 369.872,97.473 376,94.354L376,81L346,67L394,67L394,106Z" style="fill:#fff;fill-rule:nonzero;"/>
+        </g>
+    </g>
 </svg>
