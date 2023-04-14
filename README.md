@@ -45,7 +45,7 @@ The preferred logo, containing both logomark and logotype.
 
 <img alt="Zig Favicon" src="zig-favicon.png" width="16" height="16">
 
-`zig-icon.png` is a small version of the icon made for website favicons.
+`zig-favicon.png` is a small version of the icon made for website favicons.
 
 
 # Official Mascots
