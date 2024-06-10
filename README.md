@@ -52,6 +52,9 @@ The preferred logo, containing both logomark and logotype.
 
 Licensed under the Attribution 4.0 International (CC BY 4.0).
 
+Mascots are not gendered. Go ahead and adapt them to be masculine, feminine, or
+anywhere in between.
+
 ## Zero the Ziguana
 
 <img alt="Zero the Ziguana" src="zero.svg" width="300">
@@ -59,3 +62,7 @@ Licensed under the Attribution 4.0 International (CC BY 4.0).
 ## Ziggy the Ziguana
 
 <img alt="Ziggy the Ziguana" src="ziggy.svg" width="300">
+
+## Carmen the Allocgator
+
+<img alt="Carmen the Allocgator" src="carmen.svg" width="300">
