@@ -7,13 +7,21 @@ A different license applies to the mascots.
 
 The preferred logo, containing both logomark and logotype.
 
+### Dynamic Background
+
+For websites and rendered markdown where the color scheme is not known in
+advance, and contains embedded CSS to select the appropriate text color for the
+background.
+
+<img alt="Zig Logo (Dynamic Background)" src="zig-logo-dynamic.svg" width="300">
+
 ### Light Background
 
-<img alt="Zig Logo" src="zig-logo-dark.svg" width="300">
+<img alt="Zig Logo (Light Background)" src="zig-logo-dark.svg" width="300">
 
 ### Dark Background
 
-<img alt="Zig Logo" src="zig-logo-light.svg" width="300">
+<img alt="Zig Logo (Dark Background)" src="zig-logo-light.svg" width="300">
 
 ### Other Versions
 
@@ -22,10 +30,6 @@ The preferred logo, containing both logomark and logotype.
 
  * `zig-logo-neg-white.svg` is for dark backgrounds where color reproduction is not
    possible, or visibility of colored symbol is too low.
-
- * `zig-logo-dynamic.svg` is for websites and Github repositories where the color
-   scheme is not known in advance, and contains embedded CSS to select the appropriate
-   text color for the background.
 
 ## Logomark
 
