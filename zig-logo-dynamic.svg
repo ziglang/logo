@@ -20,7 +20,7 @@
 </g>
 <style>
 #text { fill: #121212 }
-@media (prefers-color-scheme: dark) { #text { fill: #f2f2f2 } }
+@media (prefers-color-scheme: dark) { #text { fill: #fff } }
 </style>
 <g id="text">
 	<g>
